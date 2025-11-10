@@ -7,7 +7,7 @@ A **Streamlit web app** that predicts the final standings of major European foot
 ---
 
 ## 🚀 Live Demo  
-👉 [football-season-predictor.streamlit.app](https://football-season-predictor.streamlit.app/)
+👉 [football-season-predictor-devansh.streamlit.app](https://football-season-predictor-devansh.streamlit.app/)
 
 ---
 
